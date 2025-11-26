@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Module for executing multiple coroutines concurrently."""
 import asyncio
-import random
 wait_random = __import__('0-basic_async_syntax').wait_random
 
 
