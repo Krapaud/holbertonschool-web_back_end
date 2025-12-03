@@ -1,0 +1,3 @@
+// Script to add a new attribute to documents in the collection school
+// Update only documents with name="Holberton school"
+// Add the attribute address with the value "972 Mission street"
